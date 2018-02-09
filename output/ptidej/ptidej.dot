@@ -1,0 +1,80 @@
+digraph G {<Ptidej UI C++> -> <CPL>
+<Ptidej UI C++> -> <PADL>
+<PADL Refactorings> -> <CPL>
+<PADL Refactorings> -> <PADL>
+<PADL Creator AspectJ> -> <CPL>
+<PADL Creator AspectJ> -> <PADL>
+<PADL Design Motifs> -> <CPL>
+<PADL Design Motifs> -> <PADL>
+<Ptidej Solver Metrics> -> <CPL>
+<Ptidej Solver Metrics> -> <PADL>
+<Ptidej Solver Metrics> -> <JChoco>
+<Ptidej Solver Metrics> -> <POM>
+<PADL Creator JavaFile (Eclipse)> -> <CPL>
+<PADL Creator JavaFile (Eclipse)> -> <PADL>
+<PADL Statements> -> <CPL>
+<PADL Statements> -> <PADL>
+<Ptidej UI Viewer> -> <CPL>
+<Ptidej UI Viewer> -> <PADL>
+<Ptidej UI Viewer> -> <Ptidej>
+<PADL Creator ClassFile> -> <CPL>
+<PADL Creator ClassFile> -> <PADL>
+<JCT Impl> -> <JCT>
+<Ptidej UI Analyses> -> <CPL>
+<Ptidej UI Analyses> -> <PADL>
+<Ptidej UI Analyses> -> <Ptidej>
+<PADL Statements Creator AOL> -> <CPL>
+<PADL Statements Creator AOL> -> <PADL>
+<PADL> -> <CPL>
+<PADL Statements Creator ClassFile> -> <CPL>
+<PADL Statements Creator ClassFile> -> <PADL>
+<PADL Creator AOL> -> <CPL>
+<PADL Creator AOL> -> <PADL>
+<JCT Tools> -> <JCT>
+<JCT Tools> -> <CPL>
+<PADL Creator MSE> -> <CPL>
+<PADL Creator MSE> -> <PADL>
+<PADL Creator C++> -> <CPL>
+<PADL Creator C++> -> <PADL>
+<PADL Micro-pattern Analysis> -> <CPL>
+<PADL Micro-pattern Analysis> -> <PADL>
+<Ptidej UI> -> <CPL>
+<Ptidej UI> -> <PADL>
+<Ptidej UI> -> <Ptidej>
+<JCT Utils> -> <JCT>
+<PADL Creator C# v2> -> <CPL>
+<PADL Creator C# v2> -> <PADL>
+<PADL Creator C# v1> -> <CPL>
+<PADL Creator C# v1> -> <PADL>
+<POM> -> <CPL>
+<POM> -> <PADL>
+<PADL Generator> -> <CPL>
+<PADL Generator> -> <PADL>
+<Ptidej Solver 4> -> <CPL>
+<Ptidej Solver 4> -> <PADL>
+<Ptidej Solver 4> -> <JChoco>
+<Ptidej UI Primitives SWT> -> <CPL>
+<Ptidej UI Primitives SWT> -> <PADL>
+<Ptidej UI Primitives SWT> -> <Ptidej>
+<PADL Serialiser DB4O> -> <CPL>
+<PADL Serialiser DB4O> -> <PADL>
+<Ptidej> -> <CPL>
+<Ptidej> -> <JChoco>
+<Ptidej> -> <PADL>
+<PADL Creator JavaFile (JavaC)> -> <CPL>
+<PADL Creator JavaFile (JavaC)> -> <PADL>
+<PADL Creator JavaFile (JavaC)> -> <JCT>
+<PADL Analyses> -> <CPL>
+<PADL Analyses> -> <PADL>
+<Ptidej UI Layouts> -> <CPL>
+<Ptidej UI Layouts> -> <PADL>
+<SAD> -> <CPL>
+<SAD> -> <PADL>
+<SAD> -> <POM>
+<Java Parser> -> <CPL>
+<SAD Rules Creator> -> <CPL>
+<SAD Rules Creator> -> <PADL>
+<Ptidej UI AspectJ> -> <CPL>
+<Ptidej UI AspectJ> -> <PADL>
+}
+
